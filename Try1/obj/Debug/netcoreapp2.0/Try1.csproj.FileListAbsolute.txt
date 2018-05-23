@@ -1,0 +1,15 @@
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.csprojResolveAssemblyReference.cache
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.csproj.CoreCompileInputs.cache
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.AssemblyInfoInputs.cache
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.AssemblyInfo.cs
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Try1.deps.json
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Try1.runtimeconfig.json
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Try1.runtimeconfig.dev.json
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Try1.dll
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Try1.pdb
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\MySql.Data.dll
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\Google.Protobuf.dll
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\bin\Debug\netcoreapp2.0\MySql.Data.xml
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.csproj.CopyComplete
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.dll
+D:\program\C#\Tutorial\2018-5-22-Sql\Try1\Try1\obj\Debug\netcoreapp2.0\Try1.pdb
